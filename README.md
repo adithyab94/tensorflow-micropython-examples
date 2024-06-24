@@ -183,6 +183,7 @@ The zip file contains:
 ## Flash for Linux
 
 TODO 
+Trigger workflow
 
 # Credits
 
